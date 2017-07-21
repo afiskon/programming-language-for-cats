@@ -16,5 +16,5 @@ Usage:
 Roadmap:
 
 * Make sure PLFC runs not only on Linux;
-* Fix a problem of platfrom-dependent behaviour during commands execution;
+* Fix a problem of platform-dependent behaviour during commands execution;
 * Add generics;
